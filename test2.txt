@@ -1,0 +1,1 @@
+this is dommy string which is created fonr test of file input & ouput.

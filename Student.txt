@@ -1,0 +1,3 @@
+student name = akash 
+student roll = 7 
+student cgpa = 78.900002 
